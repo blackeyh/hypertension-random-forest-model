@@ -68,6 +68,9 @@ The Random Forest model used in this project has achieved an **accuracy of 92%**
 |--------------|-----------|---------|----------|---------|
 | **0**        | 0.93      | 0.91    | 0.92     | 26,565  |
 | **1**        | 0.91      | 0.93    | 0.92     | 26,646  |
+
+as for accuracy
+
 | **Accuracy** |           |         | 0.92     | 53,211  |
 | **Macro avg**| 0.92      | 0.92    | 0.92     | 53,211  |
 | **Weighted avg** | 0.92  | 0.92    | 0.92     | 53,211  |
