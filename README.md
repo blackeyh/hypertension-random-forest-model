@@ -70,10 +70,12 @@ The Random Forest model used in this project has achieved an **accuracy of 92%**
 | **1**        | 0.91      | 0.93    | 0.92     | 26,646  |
 
 as for accuracy
+| **Accuracy** | **Macro avg**  | **Weighted avg**|
+|-----------|---------|---------|
+|  0.92       |  0.92     | 0.92    | 
 
-| **Accuracy** |           |         | 0.92     | 53,211  |
-| **Macro avg**| 0.92      | 0.92    | 0.92     | 53,211  |
-| **Weighted avg** | 0.92  | 0.92    | 0.92     | 53,211  |
+
+
 
 These metrics indicate that the model is well-balanced, performing almost equally for both classes (heart disease/no heart disease) in terms of precision, recall, and F1-score.
 
