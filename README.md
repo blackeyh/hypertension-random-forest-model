@@ -1,6 +1,6 @@
 # Random Forest Classification Web App with Flask and Firebase
 
-This project demonstrates a high-performance machine learning pipeline for classification tasks using a **Random Forest** model. The system integrates with a **Flask web API** for model serving and utilizes combined with ngrok to make a local server accesible from everywhere **Firebase Firestore** for remote data storage. It incorporates PCA-based dimensionality reduction and presents explainable outputs such as feature importance and evaluation metrics thanks to random forest interpretability.
+This project demonstrates a high-performance machine learning pipeline for classification tasks using a **Random Forest** model. The system integrates with a **Flask web API** for model serving and utilizes combined with ngrok to make a local server accesible from everywhere **Firebase Firestore** for remote data storage. It incorporates PCA-based dimensionality reduction and presents explainable outputs such as feature importance and evaluation metrics thanks to random forest interpretability. includes training code
 
 ---
 
@@ -15,7 +15,7 @@ The pipeline is built to support:
 - Output of **model metrics** (accuracy, precision, recall, F1 score).
 - **Feature importance** analysis and visualization for interpretability.
 - Extensibility for frontend integration or containerized environments.
-
+- python/diabetes_hypertension_predict_acc_97.py contians training code
 The model currently achieves an **accuracy of 97%** on the test dataset, indicating high performance in real-world scenarios.
 
 ---
