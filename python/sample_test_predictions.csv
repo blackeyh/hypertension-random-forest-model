@@ -1,0 +1,13 @@
+Model,Individual,Predicted Class,Probability of Hypertension
+Logistic Regression,1,Non-Hypertensive,10.93%
+Logistic Regression,2,Hypertensive,79.33%
+Logistic Regression,3,Non-Hypertensive,33.94%
+Logistic Regression,4,Hypertensive,50.64%
+Random Forest,1,Non-Hypertensive,40.00%
+Random Forest,2,Hypertensive,65.00%
+Random Forest,3,Non-Hypertensive,31.00%
+Random Forest,4,Non-Hypertensive,34.00%
+XGBoost,1,Non-Hypertensive,39.69%
+XGBoost,2,Non-Hypertensive,30.41%
+XGBoost,3,Hypertensive,97.17%
+XGBoost,4,Non-Hypertensive,46.46%
